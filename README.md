@@ -6,4 +6,4 @@
 - 💬 Ask me about **machine learning, statistics, or philosophy** — I genuinely enjoy those conversations.
 - 📫 How to reach me: my public contact information is available on my **personal website**.
 - ⚡ Fun fact: although my background is heavily focused on **engineering and mathematics**, I really enjoy collaborating with people and discussing complex ideas live, often more than studying them alone from a textbook.
-- 🌍 I’m originally from **Colombia**, have lived in **England** and **Italy**, and am I currently based in the **United States**.
+- 🌍 I’m originally from **Colombia**, have lived in **England** and **Italy**, and I currently based in the **United States**.
